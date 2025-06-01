@@ -1,0 +1,3 @@
+ansible_connection: amazon.aws.aws_ssm
+ansible_region: ap-northeast-1
+
